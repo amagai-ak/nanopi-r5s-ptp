@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="cable.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-grids="false"
+     inkscape:zoom="1.176097"
+     inkscape:cx="408.12961"
+     inkscape:cy="122.01375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="528"
+     inkscape:window-y="1439"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="166.29921"
+       y="86.929134"
+       width="26.456693"
+       height="15.11811"
+       id="rect17244" />
+  </defs>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect848-9"
+       width="10"
+       height="10"
+       x="39"
+       y="6"
+       ry="0.72067469" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect848"
+       width="3"
+       height="7"
+       x="12"
+       y="8"
+       ry="0.72067469" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="3"
+       y="19"
+       id="text1526"><tspan
+         sodipodi:role="line"
+         id="tspan1524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="3"
+         y="19">nanopi R5S</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="3"
+         y="23.409712"
+         id="tspan1528">GPIO connector</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="16.96579"
+       y="9.3976727"
+       id="text1526-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="16.96579"
+         y="9.3976727"
+         id="tspan1528-2">FPC Cable</tspan></text>
+    <rect
+       style="fill:#d5e5ff;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4548"
+       width="26.999998"
+       height="3"
+       x="13"
+       y="10"
+       ry="0.72067469" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text17242"
+       style="font-family:'MS PMincho';font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'MS PMincho';white-space:pre;shape-inside:url(#rect17244)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="37"
+       y="20"
+       id="text1526-4-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="37"
+         y="20"
+         id="tspan1528-2-8">Pitch conv</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="37"
+         y="24.409712"
+         id="tspan22087">PCB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="64"
+       y="20"
+       id="text1526-4-1-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="64"
+         y="20"
+         id="tspan22087-1">GPS rcv.</tspan></text>
+    <g
+       id="g25868"
+       transform="translate(-2.4852094,-0.47960182)">
+      <g
+         id="g24561"
+         transform="translate(4.9746347,0.99753306)">
+        <rect
+           style="fill:#666666;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+           id="rect848-9-8"
+           width="10"
+           height="10"
+           x="65"
+           y="6"
+           ry="3" />
+        <rect
+           style="fill:#666666;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round"
+           id="rect24423"
+           width="16"
+           height="1"
+           x="50"
+           y="10.5"
+           ry="0.5" />
+      </g>
+      <g
+         id="g25857"
+         transform="translate(3.0107674,0.04021383)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="M 52,12 C 50.867471,8.8633072 49.018358,8.1459518 47.000001,7.9999998"
+           id="path25171"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="M 51.999999,12 C 50.571445,10.629627 48.633192,9.7733913 47.000001,10"
+           id="path25173"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 52,12 c -2.089826,0 -3.91345,0 -4.999999,0"
+           id="path25175"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 52,12 c -1.497477,1.597208 -3.237891,1.858265 -4.999999,2"
+           id="path25177"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 52,12 c -0.444818,2.643175 -2.635229,2.938829 -4.999999,3"
+           id="path25179"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>
