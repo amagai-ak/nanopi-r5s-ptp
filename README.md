@@ -242,7 +242,7 @@ Before install chrony, disable timesyncd-service.
 $ sudo systemctl disable systemd-timesyncd.service
 ```
 
-Make configuration file /etc/chronyd like this.
+Make configuration file /etc/chronyd.conf like this.
 
 ```
 server ntp.nict.go.jp iburst
