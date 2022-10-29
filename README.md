@@ -2,6 +2,7 @@
 
 ** This document is still under construction. **
 
+** Currently, the PTP function of RTL8125 seems VERY unstable．Sometimes, PHC does not work correctly.  **
 
 Setup nanopi R5S as a NTP/PTP server.
 The OS I use here is friendlycore-focal-arm64.
