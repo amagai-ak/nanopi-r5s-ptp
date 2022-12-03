@@ -275,6 +275,7 @@ https://linuxptp.sourceforge.net/
 $ sudo /usr/local/sbin/phc2sys -r -r -s CLOCK_REALTIME -O0 -c eth1 -q -m
 ```
 
+note: Example above sets time-offset (-O option) as 0. It means PHC time is UTC. But, normally, TAI is used as time in PTP, so you should specify the offset between TAI and UTC instead of 0.
 
 ### 9.2 Start PTP
 
