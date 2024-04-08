@@ -272,7 +272,7 @@ https://linuxptp.sourceforge.net/
 ### 9.1 Synchronize PHC to system clock
 
 ```
-$ sudo /usr/local/sbin/phc2sys -r -r -s CLOCK_REALTIME -O0 -c eth1 -q -m
+$ sudo /usr/local/sbin/phc2sys -r -r -s CLOCK_REALTIME -O0 -c eth0 -q -m
 ```
 
 note: Example above sets time-offset (-O option) as 0. It means PHC time is UTC. But, normally, TAI is used as time in PTP, so you should specify the offset between TAI and UTC instead of 0.
@@ -280,7 +280,7 @@ note: Example above sets time-offset (-O option) as 0. It means PHC time is UTC.
 ### 9.2 Start PTP
 
 ```
-$ sudo /usr/local/sbin/ptp4l -m -q -i eth1
+$ sudo /usr/local/sbin/ptp4l -m -q -i eth0
 ```
 
 ## 10 Fix CPU frequency
