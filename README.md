@@ -283,7 +283,7 @@ note: Example above sets time-offset (-O option) as 0. It means PHC time is UTC.
 $ sudo /usr/local/sbin/ptp4l -m -q -i eth0
 ```
 
-## 10 Fix CPU frequency
+## 10. Fix CPU frequency
 
 In order to stabilize the timestamp of 1PPS input, it is better to fix the CPU frequency.
 
